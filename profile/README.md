@@ -32,9 +32,9 @@ Early children's experiences have an important influence on personality formatio
 ---
 
 ### 🎬 **Demo Video**
+(Click Image) <br>
 
-
-[![Watch the Demo](https://github.com/Solution-Challenge-GDSC/.github/assets/65442256/a388fdb9-c1d0-47fc-8b99-e039e4f18b22))](https://www.youtube.com)
+[![Watch the Demo](https://github.com/Solution-Challenge-GDSC/.github/assets/65442256/a388fdb9-c1d0-47fc-8b99-e039e4f18b22)](https://www.youtube.com) 
 
 ---
 
