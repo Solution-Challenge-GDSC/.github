@@ -9,11 +9,11 @@ Early children's experiences have an important influence on personality formatio
 
 ### 💙 **The 17 Sustainable Development Goals of the United Nations**
 
----
-
 - **GOAL 3:** Good Health and Wellbeing
 - **GOAL 4:** Quality Education
 - **GOAL 11:** Sustainable Cities and Communities
+
+---
 
 ### 🤛 **How to Use**
 
@@ -29,17 +29,17 @@ Early children's experiences have an important influence on personality formatio
 - **API:** Google API
 - *Architecture:* Simple diagram
 
+---
+
 ### 🎬 **Demo Video**
 
----
 
 [![Watch the Demo](https://github.com/Solution-Challenge-GDSC/.github/assets/65442256/a388fdb9-c1d0-47fc-8b99-e039e4f18b22))](https://www.youtube.com)
 
-
+---
 
 ### 👨‍💻 **Contributors**
 
----
 
 | **Woosik You** | **Davin Lee** | **Minyoung Kim** | **Minseo Kim** |
 |:--------------:|:--------------:|:----------------:|:--------------:|
