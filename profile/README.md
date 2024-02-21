@@ -1,8 +1,9 @@
 # 🐥 **Pee - Pee** 🐥
 
----
+### 🙌 **The Problems We Face**
+This application is aimed at all parents raising their children and infants and adolescents who go through the development process.<br>
 
-### 🙌 **The Goal of a Pee-Pee**
+Early children's experiences have an important influence on personality formation and behavioral development, and in Korea, 54.8% of parents suffer from depression after childbirth, which requires continuous attention.
 
 ---
 
@@ -13,6 +14,10 @@
 - **GOAL 3:** Good Health and Wellbeing
 - **GOAL 4:** Quality Education
 - **GOAL 11:** Sustainable Cities and Communities
+
+### 🤛 **How to Use**
+
+---
 
 ### 💻 **Tech Stack and Flow**
 
@@ -28,13 +33,9 @@
 
 ---
 
-[![Watch the Demo](https://example.com/thumbnail)](https://www.youtube.com)
+[![Watch the Demo](https://github.com/Solution-Challenge-GDSC/.github/assets/65442256/a388fdb9-c1d0-47fc-8b99-e039e4f18b22))](https://www.youtube.com)
 
-### 🤛 **How to Use**
 
----
-
-*Instructions on how to use go here.*
 
 ### 👨‍💻 **Contributors**
 
