@@ -7,7 +7,7 @@ Early children's experiences have an important influence on personality formatio
 
 ---
 
-### 💙 **The 17 Sustainable Development Goals of the United Nations**
+### 💙 **The 17 UN SDGs**
 
 - **GOAL 3:** Good Health and Wellbeing
 - **GOAL 4:** Quality Education
