@@ -41,6 +41,7 @@ It recommends educational methods optimized for child development and allows par
 
 ### 👨‍💻 **Contributors**
 
+**The Catholic University of Korea**
 
 | **Woosik You** | **Davin Lee** | **Minyoung Kim** | **Minseo Kim** |
 |:--------------:|:--------------:|:----------------:|:--------------:|
