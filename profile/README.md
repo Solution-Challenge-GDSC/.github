@@ -35,7 +35,7 @@ It recommends educational methods optimized for child development and allows par
 ### 🎬 **Demo Video**
 (Click Image) <br>
 
-[![Watch the Demo](https://github.com/Solution-Challenge-GDSC/GDSC_backend/assets/65442256/b8a13dec-9641-439f-9538-853e3410c7ac)](https://www.youtube.com)
+[![Watch the Demo](https://github.com/Solution-Challenge-GDSC/GDSC_backend/assets/65442256/b8a13dec-9641-439f-9538-853e3410c7ac)](https://www.youtube.com/watch?v=RAI2KMHGifU)
 
 ---
 
