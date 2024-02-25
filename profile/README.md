@@ -18,7 +18,7 @@ It recommends educational methods optimized for child development and allows par
 ### 🤛 **How to Use**
 **!!Due to a login function error, I did not log in and used a fixed token value!!** <br> <br>
 
-**git clone https://github.com/Solution-Challenge-GDSC/GDSC_frontend.git**<br>
+**git clone https://github.com/Solution-Challenge-GDSC/GDSC_frontend.git**<br><br>
 **Run npm install in the terminal** <br>
 **Run npx expo start in the terminal** <br>
 
