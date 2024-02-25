@@ -1,9 +1,9 @@
 # 🐥 **Pee - Pee** 🐥
 
 ### 🙌 **The Problems We Face**
-This application is aimed at all parents raising their children and infants and adolescents who go through the development process.<br>
-
-Early children's experiences have an important influence on personality formation and behavioral development, and in Korea, 54.8% of parents suffer from depression after childbirth, which requires continuous attention.
+This application is designed for parents with toddlers who are going through the developmental stages. <br>
+<br>
+It recommends educational methods optimized for child development and allows parents to write diaries to record their feelings of the day and organize photos of their children. Parents can arrange meetings with nearby parents and communicate with various people raising children through community features.
 
 ---
 
@@ -16,25 +16,26 @@ Early children's experiences have an important influence on personality formatio
 ---
 
 ### 🤛 **How to Use**
+![1111](https://github.com/Solution-Challenge-GDSC/GDSC_backend/assets/65442256/76ad223e-7acb-4894-bb26-6d60f7bb2f93) <br>
+![2222](https://github.com/Solution-Challenge-GDSC/GDSC_backend/assets/65442256/99d99717-d8b9-403f-8453-e7a3da61ab32) <br>
+![3333](https://github.com/Solution-Challenge-GDSC/GDSC_backend/assets/65442256/5155a9b9-6022-4431-8f10-110e394830bd) <br>
+![4444](https://github.com/Solution-Challenge-GDSC/GDSC_backend/assets/65442256/3da9c334-0a1b-4e31-8e18-2739cf14ed6c) <br>
+![5555](https://github.com/Solution-Challenge-GDSC/GDSC_backend/assets/65442256/2e268253-2179-44de-9bfd-3eb636c3bdf1) 
 
 ---
 
 ### 💻 **Tech Stack and Flow**
 
----
-
-- **Frontend:** React Native
-- **Backend:** SpringBoot
-- **Cloud Platform:** Google Cloud Platform
-- **API:** Google API
-- *Architecture:* Simple diagram
+![6666](https://github.com/Solution-Challenge-GDSC/GDSC_backend/assets/65442256/123a0e04-c502-425f-a91e-555596924d32)
 
 ---
+
+
 
 ### 🎬 **Demo Video**
 (Click Image) <br>
 
-[![Watch the Demo](https://github.com/Solution-Challenge-GDSC/GDSC_backend/assets/65442256/b8a13dec-9641-439f-9538-853e3410c7ac)](https://www.youtube.com) 
+[![Watch the Demo](https://github.com/Solution-Challenge-GDSC/GDSC_backend/assets/65442256/b8a13dec-9641-439f-9538-853e3410c7ac)](https://www.youtube.com)
 
 ---
 
