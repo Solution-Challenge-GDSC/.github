@@ -19,8 +19,8 @@ It recommends educational methods optimized for child development and allows par
 ![1111](https://github.com/Solution-Challenge-GDSC/GDSC_backend/assets/65442256/76ad223e-7acb-4894-bb26-6d60f7bb2f93) <br>
 ![2222](https://github.com/Solution-Challenge-GDSC/GDSC_backend/assets/65442256/99d99717-d8b9-403f-8453-e7a3da61ab32) <br>
 ![3333](https://github.com/Solution-Challenge-GDSC/GDSC_backend/assets/65442256/5155a9b9-6022-4431-8f10-110e394830bd) <br>
-![4444](https://github.com/Solution-Challenge-GDSC/GDSC_backend/assets/65442256/3da9c334-0a1b-4e31-8e18-2739cf14ed6c) <br>
-![5555](https://github.com/Solution-Challenge-GDSC/GDSC_backend/assets/65442256/2e268253-2179-44de-9bfd-3eb636c3bdf1) 
+![123](https://github.com/Solution-Challenge-GDSC/GDSC_backend/assets/65442256/5760131a-8620-4a41-9810-d823115fd772) <br>
+![4445](https://github.com/Solution-Challenge-GDSC/GDSC_backend/assets/65442256/5afe04a7-162b-489b-a1b2-c925847b19ea) 
 
 ---
 
